@@ -9,10 +9,10 @@ public class Program
 		Console.WriteLine("----------CALCULADORA SOFKA----------");
 
 		Console.WriteLine("Ingrese el Primer numero:  ");
-		N1= Double.Parse(Console.ReadLine( ));
+		N1= Convert.ToDouble(Console.ReadLine( ));
 	 
 		Console.WriteLine("Ingrese el Segundo numero:  ");
-		N2= Double.Parse(Console.ReadLine(  ));
+		N2= Convert.ToDouble(Console.ReadLine(  ));
 
 		Console.WriteLine("Ingrese la operacion a efectuar:");
 		
