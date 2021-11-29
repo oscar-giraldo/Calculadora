@@ -3,20 +3,22 @@
 public class Program
 {
 	public static void Main ()
-	{ int N1, N2, Operacion;
+	{ int Operacion;
+		double N1, N2;
 		
-		Console.WriteLine("----------CALCULADORA----------");
+		Console.WriteLine("----------CALCULADORA SOFKA----------");
 
 		Console.WriteLine("Ingrese el Primer numero:  ");
-		N1= Convert.ToInt32(Console.ReadLine( ));
+		N1= Convert.ToDouble(Console.ReadLine( ));
 	 
 		Console.WriteLine("Ingrese el Segundo numero:  ");
-		N2= Convert.ToInt32(Console.ReadLine(  ));
+		N2= Convert.ToDouble(Console.ReadLine(  ));
 
 		Console.WriteLine("Ingrese la operacion a efectuar:");
 		
 	 	Console.Write ("1. Suma:, 2. Resta:, 3. Multiplicacion:, 4. Division: ");
 		Operacion= Convert.ToInt32(Console.ReadLine(  ));
+		
 		
 	  if (Operacion == 1)
 	  {
