@@ -87,7 +87,7 @@ La idea es la siguiente:
 
 ![image](https://user-images.githubusercontent.com/84083691/143888134-13cf3c4a-b346-49c5-b21e-87d2606902f8.png)
 
-![image](https://user-images.githubusercontent.com/84083691/143888229-4fe2275e-4e72-418e-b1e6-3a2d6352fe96.png)
+![image](https://user-images.githubusercontent.com/84083691/143900743-39292da3-a59e-44b2-aad9-0b04247be693.png)
 
 
 
